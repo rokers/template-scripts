@@ -45,7 +45,7 @@ Before you begin, ensure you have:
    - `session-resources-v1.py`
    - `setup_xnat_env.m`
 
-2. Open MATLAB and navigate to your working directory
+2. Open MATLAB from the command line (e.g. /Applications/MATLAB_R2024b.app/bin/matlab) and navigate to your working directory
 
 3. Run the setup script:
    ```matlab
